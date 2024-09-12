@@ -22,14 +22,8 @@ This project implements a simple blockchain system with cryptocurrency functiona
 
 ## Showcase
 ![web1](https://github.com/asatyrev/tracoin_blockchain/blob/master/image/web1.png)
-
-
 ![web2](https://github.com/asatyrev/tracoin_blockchain/blob/master/image/web2.png)
-
-
 ![web3](https://github.com/asatyrev/tracoin_blockchain/blob/master/image/web3.png)
 
-
-![web4](https://github.com/asatyrev/tracoin_blockchain/blob/master/image/web4.png)
 
 
